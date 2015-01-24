@@ -1,0 +1,17 @@
+{
+  "name": "contentstashable",
+  "version": "0.1.0",
+  "authors": [
+    "ahaurw01 <aaron.haurwitz@gmail.com>"
+  ],
+  "description": "Automatically saves to localStorage what you type in contenteditable sections",
+  "main": "contentstashable.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
