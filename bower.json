@@ -2,7 +2,7 @@
   "name": "contentstashable",
   "version": "0.1.0",
   "authors": [
-    "ahaurw01 <aaron.haurwitz@gmail.com>"
+    "Aaron Haurwitz <aaron.haurwitz@gmail.com>"
   ],
   "description": "Automatically saves to localStorage what you type in contenteditable sections",
   "main": "contentstashable.js",
@@ -13,5 +13,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahaurw01/contentstashable.git"
+  }
 }
